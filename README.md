@@ -175,9 +175,8 @@ This project demonstrates:
 
 ## 👤 Author
 
-**David Wang**
-Associate Banker @ East West Bank
-MS Applied Analytics Candidate, Boston College
+**David Tsou**
+MS Applied Analytics, Boston College
 
 ---
 
