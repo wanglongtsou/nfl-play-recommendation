@@ -106,7 +106,16 @@ For a given defensive scenario:
 ├── nfl_play_recommendation.ipynb   # End-to-end pipeline (EDA → modeling → recommendations)
 ├── README.md                      # Documentation
 ```
+## Data
 
+This project uses the NFL Big Data Bowl dataset.
+
+Due to file size, data is not included in this repository.
+
+To use this project:
+1. Download the dataset from Kaggle or BigQuery
+2. Place it in:
+   nfl_big_data_bowl_2023/
 ---
 
 ## ⚙️ Tech Stack
